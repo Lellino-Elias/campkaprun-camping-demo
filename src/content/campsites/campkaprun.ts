@@ -19,8 +19,7 @@ const campkaprun: CampsiteConfig = {
   brandKind: "Camping",
   regionLong: "Zell am See-Kaprun · Nationalpark Hohe Tauern · Salzburger Land",
 
-  theme: "schiefer",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Camping am Fuß des Kitzsteinhorn",
   claimEmphasis: "Fuß des Kitzsteinhorn",
@@ -154,7 +153,6 @@ const campkaprun: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.27139, lng: 12.757368 },
     tel: "+43 6547 825487",
     telHref: "tel:+436547825487",
     mail: "office@campkaprun.at",
