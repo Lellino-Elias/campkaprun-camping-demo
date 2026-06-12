@@ -153,6 +153,7 @@ const campkaprun: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.264946, lng: 12.747081 },
     tel: "+43 6547 825487",
     telHref: "tel:+436547825487",
     mail: "office@campkaprun.at",
