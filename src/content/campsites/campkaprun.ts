@@ -94,7 +94,7 @@ const campkaprun: CampsiteConfig = {
       {
         title: "Erlebnis-Freibad",
         text: "Im Sommer kühlst du dich im Erlebnis-Freibad mit Liegewiese ab — gleich beim Gasthof, mit Blick ins Grüne.",
-        image: { src: `${IMG}/gallery-83b06151be.webp`, alt: "Erlebnis-Freibad mit Liegewiese beim Gasthof zur Mühle" },
+        image: { src: `${IMG}/hero-902991e719.webp`, alt: "Erlebnis-Freibad mit Pool und Liegestühlen beim Gasthof zur Mühle" },
       },
       {
         title: "Spiel & Planschen",
